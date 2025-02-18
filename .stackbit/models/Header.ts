@@ -72,16 +72,9 @@ export const HeaderModel: Model = {
                 {
                     type: 'Social',
                     label: '',
-                    altText: 'Twitter',
+                    altText: 'x platform',
                     url: '/',
-                    icon: 'twitter'
-                },
-                {
-                    type: 'Social',
-                    label: '',
-                    altText: 'GitHub',
-                    url: '/',
-                    icon: 'github'
+                    icon: 'x'
                 }
             ]
         },

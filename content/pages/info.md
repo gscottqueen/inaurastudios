@@ -131,8 +131,8 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
+            label: xplatform
+            url: ''
         styles:
           self:
             textAlign: left

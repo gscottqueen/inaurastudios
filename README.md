@@ -26,7 +26,7 @@ The typical development process is to begin by working locally. Clone this repos
 Run the Next.js development server:
 
 ```txt
-cd auto-annotated-portfolio
+cd inaurastudios
 npm run dev
 ```
 

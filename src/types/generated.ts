@@ -154,7 +154,7 @@ export type Button = BaseContentObject & {
         | 'playCircle'
         | 'reddit'
         | 'send'
-        | 'twitter'
+        | 'xplatform'
         | 'vimeo'
         | 'youtube';
     iconPosition?: 'left' | 'right';
@@ -384,7 +384,7 @@ export type Link = BaseContentObject & {
         | 'playCircle'
         | 'reddit'
         | 'send'
-        | 'twitter'
+        | 'xplatform'
         | 'vimeo'
         | 'youtube';
     iconPosition?: 'left' | 'right';
@@ -611,7 +611,7 @@ export type Social = BaseContentObject & {
     label?: string;
     altText?: string;
     url: string;
-    icon: 'facebook' | 'github' | 'instagram' | 'linkedin' | 'reddit' | 'twitter' | 'vimeo' | 'youtube';
+    icon: 'facebook' | 'github' | 'instagram' | 'linkedin' | 'reddit' | 'xplatform' | 'vimeo' | 'youtube';
     elementId?: string;
 };
 
