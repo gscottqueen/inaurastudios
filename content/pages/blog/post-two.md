@@ -2,6 +2,7 @@
 type: PostLayout
 title: 'Personalized Digital Experiences and The Role of AI in UX/UI Design'
 colors: colors-a
+author: content/data/team/generative-ai.json
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg

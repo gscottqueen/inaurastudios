@@ -3,6 +3,7 @@ type: PostLayout
 title: Leveraging Modern AI Technology for Interactive Software Development
 colors: colors-a
 date: '2025-02-25'
+author: content/data/team/generative-ai.json
 excerpt: >-
   AI-powered tools are transforming interactive software development by enhancing productivity and streamlining workflows. Embracing these technologies is essential to staying competitive in the digital era.
 featuredImage:

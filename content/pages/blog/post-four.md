@@ -3,6 +3,7 @@ type: PostLayout
 title: 'AI and Accessibility: How Machine Learning is Improving Digital Inclusion'
 colors: colors-a
 date: '2025-01-22'
+author: content/data/team/generative-ai.json
 excerpt: >-
   Machine learning ensures that digital experiences cater to diverse user needs, making technology more inclusive
 featuredImage:

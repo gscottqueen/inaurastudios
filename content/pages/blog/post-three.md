@@ -3,6 +3,7 @@ type: PostLayout
 title: "Digital Storytelling of the Future - Let's Transform Narrative Design"
 colors: colors-b
 date: '2025-02-05'
+author: content/data/team/generative-ai.json
 excerpt: >-
   The future of storytelling will blend human creativity to create deeply immersive digital experiences.
 featuredImage:
